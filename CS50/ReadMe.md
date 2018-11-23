@@ -62,5 +62,6 @@
 6. Queues
 7. Trees
 8. Hashing
+9. Tries
 
 
