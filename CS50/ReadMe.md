@@ -56,6 +56,7 @@
 ## Week 4: Data Structures
 1. What is a data structure?
 2. What is struct datatype?
+* user-defined (derived) datatype, typdef keyword, . operator, -> operator
 3. What are limitations of array data structure?
 4. Linked list
 5. Stacks
